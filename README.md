@@ -1,0 +1,2 @@
+# Loan-Default-Analysis-through-Exploratory-Data-Analysis-EDA-
+This project uses exploratory data analysis (EDA) to identify patterns influencing loan defaults in consumer finance. It analyzes borrower and loan attributes to minimize risks and ensure creditworthy applicants receive loans. The goal is to uncover factors linked to repayment difficulties for better lending decisions and risk assessment.
